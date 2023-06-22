@@ -1,0 +1,156 @@
+[
+  {
+    "recipe_name": "Spaghetti Bolognese",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 can diced tomatoes",
+      "1/4 cup tomato paste",
+      "1 tablespoon Italian seasoning",
+      "1/4 cup red wine",
+      "1 pound spaghetti",
+      "Salt and pepper to taste",
+      "Parmesan cheese, for serving"
+    ],
+    "cooking_method": [
+      "Cook spaghetti according to package instructions.",
+      "Meanwhile, in a large skillet over medium-high heat, cook ground beef until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add diced tomatoes, tomato paste, Italian seasoning, and red wine.",
+      "Simmer for 15-20 minutes, stirring occasionally.",
+      "Serve sauce over spaghetti with Parmesan cheese."
+    ],
+    "rating": 4.8,
+    "favorite": true,
+    "image_url": "https://i.ibb.co/b1m57TV/img-5.jpg",
+    "chef_img": "https://i.ibb.co/T0n0t3f/img-3.jpg"
+  },
+  {
+    "recipe_name": "Chicken Tikka Masala",
+    "ingredients": [
+      "2 pounds boneless, skinless chicken breasts, cubed",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "2 tablespoons garam masala",
+      "1 tablespoon ground cumin",
+      "1 tablespoon paprika",
+      "1 tablespoon turmeric",
+      "1 can tomato sauce",
+      "1 cup heavy cream",
+      "Salt and pepper to taste",
+      "Cilantro, for serving"
+    ],
+    "cooking_method": [
+      "In a large skillet over medium-high heat, cook chicken until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add garam masala, cumin, paprika, and turmeric, and stir to combine.",
+      "Add tomato sauce and bring to a simmer.",
+      "Reduce heat to low and stir in heavy cream.",
+      "Simmer for 10-15 minutes, stirring occasionally.",
+      "Serve with rice and garnish with cilantro."
+    ],
+    "rating": 4.6,
+    "favorite": false,
+    "image_url": "https://i.ibb.co/Mncggd3/img-6.jpg",
+    "chef_img": "https://i.ibb.co/QXdQggQ/img-1.jpg"
+  },
+  {
+    "recipe_name": "Caesar Salad",
+    "ingredients": [
+      "1 head romaine lettuce, chopped",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 cup croutons",
+      "1/4 cup Caesar dressing",
+      "1 lemon, juiced",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": [
+      "In a large bowl, combine lettuce, Parmesan cheese, and croutons.",
+      "Add Caesar dressing and lemon juice, and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve immediately."
+    ],
+    "rating": 4.2,
+    "favorite": true,
+    "image_url": "https://i.ibb.co/fMq9dxC/img-10.jpg",
+    "chef_img": "https://i.ibb.co/5KPkYz5/img-2.jpg"
+  },
+  {
+    "recipe_name": "Spaghetti Bolognese",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 can diced tomatoes",
+      "1/4 cup tomato paste",
+      "1 tablespoon Italian seasoning",
+      "1/4 cup red wine",
+      "1 pound spaghetti",
+      "Salt and pepper to taste",
+      "Parmesan cheese, for serving"
+    ],
+    "cooking_method": [
+      "Cook spaghetti according to package instructions.",
+      "Meanwhile, in a large skillet over medium-high heat, cook ground beef until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add diced tomatoes, tomato paste, Italian seasoning, and red wine.",
+      "Simmer for 15-20 minutes, stirring occasionally.",
+      "Serve sauce over spaghetti with Parmesan cheese."
+    ],
+    "rating": 4.8,
+    "favorite": true,
+    "image_url": "https://i.ibb.co/b1m57TV/img-5.jpg",
+    "chef_img": "https://i.ibb.co/T0n0t3f/img-3.jpg"
+  },
+  {
+    "recipe_name": "Chicken Tikka Masala",
+    "ingredients": [
+      "2 pounds boneless, skinless chicken breasts, cubed",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "2 tablespoons garam masala",
+      "1 tablespoon ground cumin",
+      "1 tablespoon paprika",
+      "1 tablespoon turmeric",
+      "1 can tomato sauce",
+      "1 cup heavy cream",
+      "Salt and pepper to taste",
+      "Cilantro, for serving"
+    ],
+    "cooking_method": [
+      "In a large skillet over medium-high heat, cook chicken until browned.",
+      "Add onion and garlic and cook until softened.",
+      "Add garam masala, cumin, paprika, and turmeric, and stir to combine.",
+      "Add tomato sauce and bring to a simmer.",
+      "Reduce heat to low and stir in heavy cream.",
+      "Simmer for 10-15 minutes, stirring occasionally.",
+      "Serve with rice and garnish with cilantro."
+    ],
+    "rating": 4.6,
+    "favorite": false,
+    "image_url": "https://i.ibb.co/Mncggd3/img-6.jpg",
+    "chef_img": "https://i.ibb.co/QXdQggQ/img-1.jpg"
+  },
+  {
+    "recipe_name": "Caesar Salad",
+    "ingredients": [
+      "1 head romaine lettuce, chopped",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 cup croutons",
+      "1/4 cup Caesar dressing",
+      "1 lemon, juiced",
+      "Salt and pepper to taste"
+    ],
+    "cooking_method": [
+      "In a large bowl, combine lettuce, Parmesan cheese, and croutons.",
+      "Add Caesar dressing and lemon juice, and toss to combine.",
+      "Season with salt and pepper to taste.",
+      "Serve immediately."
+    ],
+    "rating": 4.2,
+    "favorite": true,
+    "image_url": "https://i.ibb.co/fMq9dxC/img-10.jpg",
+    "chef_img": "https://i.ibb.co/5KPkYz5/img-2.jpg"
+  }
+]
